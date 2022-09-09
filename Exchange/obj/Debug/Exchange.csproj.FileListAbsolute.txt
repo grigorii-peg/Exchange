@@ -1,8 +1,0 @@
-C:\Users\Admin\Desktop\С++\C#\Exchange\bin\Debug\Exchange.exe.config
-C:\Users\Admin\Desktop\С++\C#\Exchange\bin\Debug\Exchange.exe
-C:\Users\Admin\Desktop\С++\C#\Exchange\bin\Debug\Exchange.pdb
-C:\Users\Admin\Desktop\С++\C#\Exchange\obj\Debug\Exchange.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\С++\C#\Exchange\obj\Debug\Exchange.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Desktop\С++\C#\Exchange\obj\Debug\Exchange.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\С++\C#\Exchange\obj\Debug\Exchange.exe
-C:\Users\Admin\Desktop\С++\C#\Exchange\obj\Debug\Exchange.pdb
